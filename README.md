@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adzuki1
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python / R / C#
+- I study Computer Science in CEFET-RJ
+- I’m currently learning Python / C++
 - 📫 How to reach me: mneto.fis@gmail.com
 
 <!---
