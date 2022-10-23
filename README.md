@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @adzuki1
-- I study Computer Science in CEFET-RJ
-- I’m currently learning Python / C++
-- 📫 How to reach me: mneto.fis@gmail.com
+## Oi! Eu sou o Maurício Neto!
 
-<!---
-adzuki1/adzuki1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://beacons.ai/adzuki1">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=adzuki1&show_icons=true&theme=dark&include_all_commits=true&count_privade=true"/>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/toplangs/?username=adzuki1&layout=compact&langs_count=3&theme=dark"/>
+<div>
+  
