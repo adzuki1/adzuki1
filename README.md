@@ -3,6 +3,5 @@
 <div>
   <a href="https://beacons.ai/adzuki1">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=adzuki1&show_icons=true&theme=dark&include_all_commits=true&count_privade=true"/>
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/toplangs/?username=adzuki1&layout=compact&langs_count=3&theme=dark"/>
-<div>
+
   
