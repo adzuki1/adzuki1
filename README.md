@@ -1,4 +1,4 @@
-## Oi! Eu sou o Maurício Neto!
+## Oi!
 
 <div>
   <a href="https://beacons.ai/adzuki1">
