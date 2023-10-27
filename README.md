@@ -1,6 +1,6 @@
 ## Olá!
 
-B.S., Computer Science 3/8
+B.S., Computer Science
 
 <div>
   <a href="https://beacons.ai/adzuki1">
