@@ -1,1 +1,1 @@
-B.S., Computer Science
+**CEFET-RJ** - B.S., Computer Science 
